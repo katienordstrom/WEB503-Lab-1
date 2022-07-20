@@ -1,7 +1,11 @@
 .first-tag {
-color: rgb(32, 176, 42);
+color: rgb(246, 180, 0);
 }
 /* . for classes and # for IDs */
 #another_tag {
     color: red;
+}
+
+div {
+    padding: 4px;
 }
