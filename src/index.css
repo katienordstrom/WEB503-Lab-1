@@ -1,0 +1,8 @@
+.first-tag {
+color: rgb(32, 176, 42);
+background-color: magenta;
+}
+/* . for classes and # for IDs */
+#another_tag {
+    color: red;
+}
