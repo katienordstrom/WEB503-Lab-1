@@ -1,11 +1,26 @@
+body {
+    text-align: center;
+    background-color: #fbf8cb;
+}
 .first-tag {
-color: rgb(246, 180, 0);
+color: #fb5a00;
+
 }
 /* . for classes and # for IDs */
 #another_tag {
-    color: red;
+    color: #f8d04d;
 }
 
 div {
     padding: 4px;
+}
+
+button {
+    background-color:#a00000;
+    color: #fff;
+}
+
+#sub {
+    background-color:#a00000;
+    color: #fff;
 }
